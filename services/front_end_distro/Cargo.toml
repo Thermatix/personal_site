@@ -1,0 +1,6 @@
+[package]
+name = "front_end_distro"
+version = "0.1.0"
+authors = ["thermatix <mbeckerwork@gmail.com>"]
+
+[dependencies]
