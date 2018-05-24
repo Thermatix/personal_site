@@ -4,3 +4,8 @@ version = "0.1.0"
 authors = ["thermatix <mbeckerwork@gmail.com>"]
 
 [dependencies]
+stdweb = "~0.4"
+actix = "~0.5"
+actix-web = "~0.6"
+config = "~0.8"
+log = "~0.4"
